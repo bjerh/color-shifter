@@ -1,0 +1,19 @@
+{
+  "name": "color-shifter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjerh/color-shifter.git"
+  },
+  "author": "Jakob Bjerre Petersen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bjerh/color-shifter/issues"
+  },
+  "homepage": "https://github.com/bjerh/color-shifter#readme"
+}
