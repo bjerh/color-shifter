@@ -2,9 +2,10 @@
   "name": "color-shifter",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bjerh/color-shifter/issues"
   },
-  "homepage": "https://github.com/bjerh/color-shifter#readme"
+  "homepage": "https://github.com/bjerh/color-shifter#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
